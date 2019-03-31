@@ -1076,6 +1076,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
     * [:earth_americas: PLY](http://www.dabeaz.com/ply/) - Implementation of lex and yacc parsing tools for Python
     * [:earth_americas: Pygments](http://pygments.org/) - A generic syntax highlighter.
     * [:earth_americas: pyparsing](http://pyparsing.wikispaces.com/) - A general purpose framework for generating parsers.
+    * [:octocat: Lark](https://github.com/lark-parser/lark) - A modern general-purpose parsing library for Python    
     * [:octocat: python-nameparser](https://github.com/derek73/python-nameparser) - :star: 314 :fork_and_knife: 52 - Parsing human names into their individual components.
     * [:octocat: python-user-agents](https://github.com/selwin/python-user-agents) - :star: 864 :fork_and_knife: 147 - Browser user agent parser.
     * [:octocat: sqlparse](https://github.com/andialbrecht/sqlparse) - :star: 1550 :fork_and_knife: 335 - A non-validating SQL parser.
